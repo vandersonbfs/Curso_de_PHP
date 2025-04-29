@@ -1,5 +1,7 @@
 <?php
     include_once("helpers/url.php");
+    include_once("dados/posts.php");
+    include_once("dados/categories.php");
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
